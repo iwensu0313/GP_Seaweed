@@ -1,0 +1,15 @@
+name: Seaweed Cultivation Final Report
+navbar:
+  title: Seaweed Cultivation
+  left:
+  - text: Home Page
+    href: index.html
+  - text: Final Report
+    href: finalReport.html
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    lib_dir: site_libs
+    self_contained: no
