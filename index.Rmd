@@ -8,6 +8,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-## Home Page
 
-Final report is still in the revision stages.
+# Our report is being finalized. Stay tuned!

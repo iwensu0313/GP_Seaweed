@@ -2,10 +2,8 @@ name: "Seaweed Cultivation Final Report"
 navbar:
   title: Seaweed Cultivation
   left:
-  - text: Home Page
-    href: index.html
   - text: Final Report
-    href: finalReport.html
+    href: index.html
 output_dir: "."
 output:
   html_document:
