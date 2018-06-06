@@ -36,4 +36,6 @@ Seaweed aquaculture can be economically feasible in southern California but barr
 
 ***
 
-<a href="files/brief.pdf" download>Project Brief</a>
+*Full Report and Supplementary Materials*
+<a href="files/Report_May2018.pdf" download>Download Final Report</a>a
+<a href="files/ProjectBrief.pdf" download>Download Project Brief</a>
