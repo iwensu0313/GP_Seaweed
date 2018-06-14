@@ -11,6 +11,8 @@ Seaweed aquaculture is an emerging industry in the United States, but has been e
 
 In our project, we focused on seaweed species that satisfy a growing health-conscious community and have a high potential in the southern California food market. We assessed the economic feasibility of starting a seaweed farm in onshore (i.e. land-based) and offshore. Here, offshore is defined as mariculture occurring in ocean but does not necessarily refer to cultivation in deep and distant waters. The main barriers impeding the growth of the industry are high initial capital costs, permitting uncertainty, and a lack of established cultivation methods specific to the region. Our report aims to provide researchers, future farmers, and policy makers comprehensive scientific knowledge about ideal candidate species for edible seaweed cultivation, prospective economic feasibility, and mechanisms to circumvent some of those barriers in the short term.
 
+<br>
+
 ## Candidate species and cultivation methods
 
 We utilized three criteria to identify edible seaweed species that are ideal for cultivation and sale in southern California: 1) The algae must occur naturally throughout the whole region, 2) have a pre-existing food market in California, and 3) must have established aquaculture techniques. The first condition helps promote a cohesive and collaborative local industry and the latter two are desirable by aquaculturists who want to buy into a system that has a proven history of success. Applying these criteria to the native species of the Bight, the following four species emerge as the most promising candidates:
@@ -31,6 +33,8 @@ Optimal harvest season and potential productivity for a locale can be estimated 
 
 The final decision facing a farmer is which grow-out structure to use for a particular species. All four aforementioned species can be grown in tanks onshore. For offshore cultivation, longline culture is most appropriate for G. pacifica and L. setchellii, whereas P. perforata and U. lactuca should be raised used nets. Since the latter two species are more susceptible to rough wave action, siting them in calmer or shallower waters will decrease the likelihood of fragmentation.
 
+<br>
+
 ## Economic feasibility
 
 We synthesized projected farm yield, initial required capital, and annual operating costs through a bioeconomic model to investigate the key factors that will affect the economic feasibility of seaweed aquaculture in southern California (**Figure 1**). Seaweed growth rate has a major influence on the viability of a farm system and L. setchellii outperformed the other three candidate species largely due to its high biological productivity and low annual harvest costs. However, as a brown seaweed, it typically has a lower market value than a red species such as *P. perforata*. This suggests potential trade-offs in species selection between productivity and marketability. Our research also highlights the pros and cons of siting seaweed production on and offshore. Offshore production can be more economically viable due to its lower  operational costs, but a farmer may be forced to make sacrifices in terms of product quality and increased risk. 
@@ -48,6 +52,7 @@ Additionally, securing a permit for offshore aquaculture has proven to be more d
 <br> 
 
 ![](images/breakeven.png)
+
 **Figure 2**: Break-even market price ($/kg) at the end of 5-years for all candidate species both onshore and offshore. For direct comparison of fresh and typically processed seaweeds, kg units are all fresh weight. The colored bars represent the mean growth rate scenario and the bounding bars show the low and high growth rate scenario. 
 
 <br>
@@ -64,6 +69,8 @@ Regardless of location, these “break-even” prices suggest that the cost of s
 ## Co-culture with shellfish aquaculture
 
 In California and elsewhere around the globe, seaweed aquaculture has been increasingly associated with shellfish cultivation. These two extractive organisms have been traditionally paired with fed finfish aquaculture, a process known as integrated multitrophic aquaculture (IMTA). However, shellfish and seaweed can also be grown together in isolation. Shellfish farmers benefit from diversifying their product portfolio and potential seaweed farmers can leverage existing permits for shellfish aquaculture to avoid having to obtain a new one. Sharing required infrastructure and novel “3-D” cultivation methods allows for increased yield from a single farm unit. This project demonstrates that an existing mussel farm could increase its profit by substituting seaweed production on to the farm. It is also possible that there are ecological benefits of growing the two species in unison, such as localized buffering of ocean acidification by seaweeds, but further empirical research is needed to corroborate these theories. 
+
+<br>
 
 ## Recommendations
 
