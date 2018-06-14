@@ -24,7 +24,32 @@ Optimal harvest season and potential productivity for a locale can be estimated 
 
 ## Economic feasibility
 
-We synthesized projected farm yield, initial required capital, and annual operating costs through a bioeconomic model to investigate the key factors that will affect the economic feasibility of seaweed aquaculture in southern California. Seaweed growth rate has a major influence on the viability of a farm system and L. setchellii outperformed the other three candidate species largely due to its high biological productivity and low annual harvest costs. However, as a brown seaweed, it typically has a lower market value than a red species such as *P. perforata*. This suggests potential trade-offs in species selection between productivity and marketability. Our research also highlights the pros and cons of siting seaweed production on and offshore. Offshore production can be more economically viable due to its lower annual operational costs, but a farmer may be forced to make sacrifices in terms of product quality and increased risk. Additionally, securing a permit for offshore aquaculture has proven to be more difficult than for onshore systems. An aquaculture farmer can have more control over product quality onshore but this comes at the price of higher labor and energy costs. Our models predicts an average price of $11.42/kg across the four species for an onshore farmer to recoup their costs over a five-year time period compared to $6.84/kg offshore. Regardless of location, these “break-even” prices suggest that the cost of seaweed aquaculture in southern California prohibits successful competition on the global market, where seaweed is processed for use as a food additive. Instead, the seaweed industry must position itself to provide a value-added produce or specialty item to be viable. 
+We synthesized projected farm yield, initial required capital, and annual operating costs through a bioeconomic model to investigate the key factors that will affect the economic feasibility of seaweed aquaculture in southern California (**Figure 1**). Seaweed growth rate has a major influence on the viability of a farm system and L. setchellii outperformed the other three candidate species largely due to its high biological productivity and low annual harvest costs. However, as a brown seaweed, it typically has a lower market value than a red species such as *P. perforata*. This suggests potential trade-offs in species selection between productivity and marketability. Our research also highlights the pros and cons of siting seaweed production on and offshore. Offshore production can be more economically viable due to its lower  operational costs, but a farmer may be forced to make sacrifices in terms of product quality and increased risk. 
+
+<br>
+
+![](images/cost_breakdown.png)
+**Figure 1**. Allocation of the costs associated with each species-location combination over a 5-year period. The annual and marginal costs have been calculated over 5-years and discounted (0.05). The other category is for cost categories that comprised less than 5% of the total cost for each species. Figure (a) shows the cost including Laminaria setchellii onshore, and (b) excludes L. setchelli onshore for better visual analysis of cost composition. 
+
+<br>
+
+Additionally, securing a permit for offshore aquaculture has proven to be more difficult than for onshore systems. An aquaculture farmer can have more control over product quality onshore but this comes at the price of higher labor and energy costs. Our models predicts an average price of $11.42/kg across the four species for an onshore farmer to recoup their costs over a five-year time period compared to $6.84/kg offshore (**Figure 2**).
+
+<br> 
+
+![](images/breakeven.png)
+**Figure 2**: Break-even market price ($/kg) at the end of 5-years for all candidate species both onshore and offshore. For direct comparison of fresh and typically processed seaweeds, kg units are all fresh weight. The colored bars represent the mean growth rate scenario and the bounding bars show the low and high growth rate scenario. 
+
+<br>
+
+Regardless of location, these “break-even” prices suggest that the cost of seaweed aquaculture in southern California prohibits successful competition on the global market, where seaweed is processed for use as a food additive (**Table 1**). Instead, the seaweed industry must position itself to provide a value-added produce or specialty item to be viable. 
+
+<br>
+
+**Table 1**: Market price ($/kg) for seaweed species in the global, California, and US market. The costs associated with the different processing procedures (i.e. dried, raw) across species and markets are presented. Wet local values for Pyropia perforata and Laminaria setchellii were back-calculated from the dried price, assuming a 1:6.67 kg conversion from dried to wet biomass (Azevedo et al., 2016; Hernandez et al., 2005; Roesijadi et al., 2008; Watson & Dring, 2007). 
+![](images/marketprices.png)
+
+<br>
 
 ## Co-culture with shellfish aquaculture
 
