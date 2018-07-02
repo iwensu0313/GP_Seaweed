@@ -83,3 +83,5 @@ Seaweed aquaculture can be economically feasible in southern California but barr
 <a href="files/Seaweed_Aquaculture_Report_2018.pdf" download>Download Final Report</a>
 
 <a href="files/Seaweed_Brief_2018.pdf" download>Download Project Brief</a>
+
+[Project Results: Economic Model](https://iwensu.shinyapps.io/shinyseaweed_is/)
