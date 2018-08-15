@@ -1,17 +1,21 @@
 ---
 title: "Testing the Economic Feasibility of Seaweed Cultivation in Southern California"
-output:  html_document
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
 ---
 
 ***
 
 *(Return to [project page](https://sbmussels.weebly.com/))*
 
-# **Executive Summary**
+## **Executive Summary**
 Seaweed aquaculture is an emerging industry in the United States, but has been established in many Asian countries for centuries. Over one-fifth of global annual aquaculture production comes from seaweed, with the vast majority of that being used for direct human consumption (Moffit, 2014). Seaweed is produced for a wide variety of uses, including pharmaceuticals, biofuel, and agricultural products, but food and health are human necessities that may motivate more rapid expansion of local, sustainable aquaculture. The rich nutritional profile and low environmental footprint of seaweed contribute to its promise as a sustainable and healthy food source. To date, increasing demand for edible seaweeds in California has been primarily filled by imported products (NOAA Fisheries, 2017). However, the environmental and oceanographic conditions of California’s waters are an untapped resource for seaweed cultivation as evidenced by the dense stands of kelp forest along the coast. The lack of need for freshwater and pesticide inputs makes seaweed aquaculture a prime candidate to sustainably address food security issues in California.
 
 
-In our project, we focused on seaweed species that satisfy a growing health-conscious community and have a high potential in the southern California food market. We assessed the economic feasibility of starting a seaweed farm in onshore (i.e. land-based) and offshore. Here, offshore is defined as mariculture occurring in ocean but does not necessarily refer to cultivation in deep and distant waters. The main barriers impeding the growth of the industry are high initial capital costs, permitting uncertainty, and a lack of established cultivation methods specific to the region. Our report aims to provide researchers, future farmers, and policy makers comprehensive scientific knowledge about ideal candidate species for edible seaweed cultivation, prospective economic feasibility, and mechanisms to circumvent some of those barriers in the short term.
+In our project, we focused on seaweed species that satisfy a growing health-conscious community and have a high potential in the southern California food market. We assessed the economic feasibility of starting a seaweed farm in onshore (i.e. land-based) and offshore systems. Here, offshore is defined as mariculture occurring in ocean but does not necessarily refer to cultivation in deep and distant waters. The main barriers impeding the growth of the industry are high initial capital costs, permitting uncertainty, and a lack of established cultivation methods specific to the region. Our report aims to provide researchers, future farmers, and policy makers comprehensive scientific knowledge about ideal candidate species for edible seaweed cultivation, prospective economic feasibility, and mechanisms to circumvent some of those barriers in the short term.
 
 <br>
 
@@ -82,7 +86,7 @@ Seaweed aquaculture can be economically feasible in southern California but barr
 
 ***
 
-**Full Report and Supplementary Materials**:
+## Full Report and Supplementary Materials:
 
 <a href="files/Seaweed_Aquaculture_Report_2018.pdf" download>Download Final Report</a>
 
